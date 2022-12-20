@@ -3,15 +3,15 @@
 This is an extremely complicated and almost completely useless browser sniffing library. Useless because you shouldn't use browser sniffing. So stop right now and go read something about feature detecting instead. I'm serious. Go away. You'll thank me later.
 
 
-WhichBrowser/Parser-PHP
+thinhbuzz/Parser-PHP
 =======================
 
 The PHP version of WhichBrowser for use on a server. Fully compatible with PHP 7.0 or higher, including PHP 8.
 
-![Build](https://github.com/WhichBrowser/Parser-PHP/workflows/Build/badge.svg)
-[![Coverage Status](https://coveralls.io/repos/WhichBrowser/Parser-PHP/badge.svg?branch=master&service=github)](https://coveralls.io/github/WhichBrowser/Parser-PHP?branch=master)
-[![License](https://poser.pugx.org/whichbrowser/parser/license)](https://packagist.org/packages/whichbrowser/parser)
-[![Latest Stable Version](https://poser.pugx.org/whichbrowser/parser/v/stable)](https://packagist.org/packages/whichbrowser/parser)
+![Build](https://github.com/thinhbuzz/Parser-PHP/workflows/Build/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/thinhbuzz/Parser-PHP/badge.svg?branch=master&service=github)](https://coveralls.io/github/thinhbuzz/Parser-PHP?branch=master)
+[![License](https://poser.pugx.org/buzz/which-browser-parser/license)](https://packagist.org/packages/buzz/which-browser-parser)
+[![Latest Stable Version](https://poser.pugx.org/buzz/which-browser-parser/v/stable)](https://packagist.org/packages/buzz/which-browser-parser)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/whichbrowserlib.svg?style=social)](https://twitter.com/whichbrowserlib)
 
@@ -64,13 +64,13 @@ WhichBrowser requires with PHP 7.0 or higher and supports PHP 8. WhichBrowser is
 How to install it
 -----------------
 
-You can install WhichBrowser by using Composer - the standard package manager for PHP. The package is called `whichbrowser/parser`.
+You can install WhichBrowser by using Composer - the standard package manager for PHP. The package is called `buzz/which-browser-parser`.
 
-    composer require whichbrowser/parser
+    composer require buzz/which-browser-parser
 
 You can easily update WhichBrowser by running a simple command.
 
-    composer update whichbrowser/parser
+    composer update buzz/which-browser-parser
 
 You should run this command as often as possible. You might even want to consider setting up a cron job for this purpose.
 
