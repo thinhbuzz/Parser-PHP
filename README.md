@@ -1,4 +1,4 @@
-<img src="https://api.whichbrowser.net/whichbrowser.svg" width="400">
+>This fork is to continue the glory of WhichBrowserParser
 
 This is an extremely complicated and almost completely useless browser sniffing library. Useless because you shouldn't use browser sniffing. So stop right now and go read something about feature detecting instead. I'm serious. Go away. You'll thank me later.
 
@@ -8,22 +8,10 @@ thinhbuzz/Parser-PHP
 
 The PHP version of WhichBrowser for use on a server. Fully compatible with PHP 7.0 or higher, including PHP 8.
 
-![Build](https://github.com/thinhbuzz/Parser-PHP/workflows/Build/badge.svg)
+![Build](https://github.com/thinhbuzz/Parser-PHP/actions/workflows/build.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/thinhbuzz/Parser-PHP/badge.svg?branch=master&service=github)](https://coveralls.io/github/thinhbuzz/Parser-PHP?branch=master)
 [![License](https://poser.pugx.org/buzz/which-browser-parser/license)](https://packagist.org/packages/buzz/which-browser-parser)
 [![Latest Stable Version](https://poser.pugx.org/buzz/which-browser-parser/v/stable)](https://packagist.org/packages/buzz/which-browser-parser)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/whichbrowserlib.svg?style=social)](https://twitter.com/whichbrowserlib)
-
-Also available:
-
-- [WhichBrowser/Parser-JavaScript](https://github.com/WhichBrowser/Parser-JavaScript)<br>
-  A JavaScript version of WhichBrowser for use with Node.js on the server
-
-- [WhichBrowser/Server](https://github.com/WhichBrowser/Server)<br>
-  A server written in PHP that provides a JavaScript API for use in the browser
-
----
 
 
 About WhichBrowser
